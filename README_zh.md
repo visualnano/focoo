@@ -1,0 +1,32 @@
+# Focoo
+
+Focoo 是一个美观实用的番茄钟计时器。
+
+## 安装
+
+[![从 Microsoft Store 下载](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+
+## 简介
+
+Focoo 是一款基于番茄工作法的简单直观的效率应用，旨在帮助您更好地专注于任务并提高工作效率。当你完成既定专注任务后你将会获得积极的正向反馈。
+
+让Focoo带你告别拖延症，逐步实现自我突破！
+
+适用场景：
+学习和复习
+工作和办公
+个人自律
+习惯养成
+冥想练习
+...
+
+功能特点：
+ 界面简洁，操作直观
+ 功能专一，软件包体积小
+ 灵活设定时长，精确到秒
+ 灵活可定制，配置项丰富
+
+## 许可
+
+Focoo 是商业软件，此仓库为用户提供报告问题和提交建议的场所。
+
