@@ -2,7 +2,6 @@
 
 Focoo is a beautiful and practical Pomodoro timer.
 
-
 # Introduction
 
 Focoo is a simple and intuitive productivity application based on the Pomodoro Technique, designed to help you concentrate better on tasks and enhance your productivity. You will receive positive feedback upon completing your focused sessions. 
@@ -26,3 +25,4 @@ Highly customizable with abundant configuration options
 # License
 
 Focoo is commercial software, this repo provides users with a place to report problems and submit suggestions.
+
