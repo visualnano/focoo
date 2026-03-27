@@ -4,7 +4,10 @@ Focoo هو مؤقت بومودورو جميل وعملي.
 
 ## التثبيت
 
-[![تنزيل من Microsoft Store](https://get.microsoft.com/images/ar%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+<a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="تنزيل إصدار Windows من Microsoft Store" src="https://get.microsoft.com/images/ar%20dark.svg" width="200" /></a>
+
+<a href="https://github.com/visualnano/focoo/releases/latest">
+<img alt="تنزيل إصدار Linux من GitHub release" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
 ## مقدمة
 

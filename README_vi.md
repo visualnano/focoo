@@ -4,7 +4,10 @@ Focoo là một bộ đếm thời gian Pomodoro đẹp và thực tế.
 
 ## Cài đặt
 
-[![Tải xuống từ Microsoft Store](https://get.microsoft.com/images/vi%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+<a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Tải xuống phiên bản Windows từ Microsoft Store" src="https://get.microsoft.com/images/vi%20dark.svg" width="200" /></a>
+
+<a href="https://github.com/visualnano/focoo/releases/latest">
+<img alt="Tải xuống phiên bản Linux từ GitHub release" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
 ## Giới thiệu
 

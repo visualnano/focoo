@@ -4,7 +4,10 @@ Focoo é um temporizador Pomodoro bonito e prático.
 
 ## Instalação
 
-[![Baixar da Microsoft Store](https://get.microsoft.com/images/pt-br%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+<a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Baixar a versão Windows na Microsoft Store" src="https://get.microsoft.com/images/pt-br%20dark.svg" width="200" /></a>
+
+<a href="https://github.com/visualnano/focoo/releases/latest">
+<img alt="Baixar a versão Linux no GitHub release" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
 ## Introdução
 

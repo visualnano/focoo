@@ -4,7 +4,10 @@ Focoo is a beautiful and practical Pomodoro timer.
 
 ## Installation
 
-[![Download from the Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+<a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Download Windows version from the Microsoft Store" src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" /></a>
+
+<a href="https://github.com/visualnano/focoo/releases/latest">
+<img alt="Download Linux version from GitHub release" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
 ## Introduction
 

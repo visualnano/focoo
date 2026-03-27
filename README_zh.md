@@ -4,7 +4,10 @@ Focoo 是一个美观实用的番茄钟计时器。
 
 ## 安装
 
-[![从 Microsoft Store 下载](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+<a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="从 Microsoft Store 下载 Windows 版" src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="200" /></a>
+
+<a href="https://github.com/visualnano/focoo/releases/latest">
+<img alt="从 GitHub release 下载 Linux 版" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
 ## 简介
 

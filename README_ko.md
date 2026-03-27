@@ -4,7 +4,10 @@ Focoo는 아름답고 실용적인 포모도로 타이머입니다.
 
 ## 설치
 
-[![Microsoft Store에서 다운로드](https://get.microsoft.com/images/ko%20dark.svg)](https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full)
+<a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Microsoft Store에서 Windows 버전 다운로드" src="https://get.microsoft.com/images/ko%20dark.svg" width="200" /></a>
+
+<a href="https://github.com/visualnano/focoo/releases/latest">
+<img alt="GitHub release에서 Linux 버전 다운로드" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
 ## 소개
 
