@@ -13,6 +13,8 @@ Features:
 
 ## v1.1.0 on 2025/11/24
 
+Screenshots: see [1.1.0](./1.1.0/)
+
 New features:
 
 - Redesigned UI with the material design language
