@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Focoo Logo" width="128" />
+</p>
+
 # Focoo
 
 Focoo é um temporizador Pomodoro bonito e prático.

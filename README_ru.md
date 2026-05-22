@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Логотип Focoo" width="128" />
+</p>
+
 # Focoo
 
 Focoo — это красивый и практичный таймер Pomodoro.

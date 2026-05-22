@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Biểu trưng Focoo" width="128" />
+</p>
+
 # Focoo
 
 Focoo là một bộ đếm thời gian Pomodoro đẹp và thực tế.

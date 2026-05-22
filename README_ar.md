@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="شعار Focoo" width="128" />
+</p>
+
 # Focoo
 
 Focoo هو مؤقت بومودورو جميل وعملي.

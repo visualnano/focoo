@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Focoo 圖示" width="128" />
+</p>
+
 # Focoo
 
 Focoo 是一個美觀實用的番茄鐘計時器。

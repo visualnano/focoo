@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Focoo लोगो" width="128" />
+</p>
+
 # Focoo
 
 Focoo एक सुंदर और व्यावहारिक Pomodoro टाइमर है।

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Focoo کا لوگو" width="128" />
+</p>
+
 # Focoo
 
 Focoo ایک خوبصورت اور عملی Pomodoro ٹائمر ہے۔

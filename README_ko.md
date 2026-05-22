@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Focoo 로고" width="128" />
+</p>
+
 # Focoo
 
 Focoo는 아름답고 실용적인 포모도로 타이머입니다.

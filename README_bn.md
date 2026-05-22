@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_icon.png" alt="Focoo লোগো" width="128" />
+</p>
+
 # Focoo
 
 Focoo একটি সুন্দর এবং ব্যবহারিক পোমোডোরো টাইমার।
