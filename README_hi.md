@@ -6,6 +6,8 @@ Focoo एक सुंदर और व्यावहारिक Pomodoro ट�
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Microsoft Store से Windows संस्करण डाउनलोड करें" src="https://get.microsoft.com/images/hi%20dark.svg" width="200" /></a>
 
+<a href="https://snapcraft.io/focoo"><img alt="Snap Store से प्राप्त करें" src="https://snapcraft.io/en/dark/install.svg" width="200" /></a>
+
 <a href="https://github.com/visualnano/focoo/releases/latest">
 <img alt="GitHub release से Linux संस्करण डाउनलोड करें" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 

@@ -6,6 +6,8 @@ Focoo 是一個美觀實用的番茄鐘計時器。
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="從 Microsoft Store 下載 Windows 版" src="https://get.microsoft.com/images/zh-tw%20dark.svg" width="200" /></a>
 
+<a href="https://snapcraft.io/focoo"><img alt="從 Snap Store 取得" src="https://snapcraft.io/en/dark/install.svg" width="200" /></a>
+
 <a href="https://github.com/visualnano/focoo/releases/latest">
 <img alt="從 GitHub release 下載 Linux 版" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 

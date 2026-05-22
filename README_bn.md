@@ -6,6 +6,8 @@ Focoo একটি সুন্দর এবং ব্যবহারিক প�
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Microsoft Store থেকে Windows সংস্করণ ডাউনলোড করুন" src="https://get.microsoft.com/images/bn%20dark.svg" width="200" /></a>
 
+<a href="https://snapcraft.io/focoo"><img alt="Snap Store থেকে নিন" src="https://snapcraft.io/en/dark/install.svg" width="200" /></a>
+
 <a href="https://github.com/visualnano/focoo/releases/latest">
 <img alt="GitHub release থেকে Linux সংস্করণ ডাউনলোড করুন" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 

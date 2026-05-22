@@ -6,6 +6,8 @@ Focoo ist ein schöner und praktischer Pomodoro-Timer.
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Windows-Version aus dem Microsoft Store herunterladen" src="https://get.microsoft.com/images/de%20dark.svg" width="200" /></a>
 
+<a href="https://snapcraft.io/focoo"><img alt="Aus dem Snap Store holen" src="https://snapcraft.io/en/dark/install.svg" width="200" /></a>
+
 <a href="https://github.com/visualnano/focoo/releases/latest">
 <img alt="Linux-Version vom GitHub release herunterladen" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 

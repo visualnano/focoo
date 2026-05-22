@@ -6,6 +6,8 @@ Focoo ایک خوبصورت اور عملی Pomodoro ٹائمر ہے۔
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Microsoft Store سے Windows ورژن ڈاؤن لوڈ کریں" src="https://get.microsoft.com/images/ur%20dark.svg" width="200" /></a>
 
+<a href="https://snapcraft.io/focoo"><img alt="Snap Store سے حاصل کریں" src="https://snapcraft.io/en/dark/install.svg" width="200" /></a>
+
 <a href="https://github.com/visualnano/focoo/releases/latest">
 <img alt="GitHub release سے Linux ورژن ڈاؤن لوڈ کریں" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 

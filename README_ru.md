@@ -6,6 +6,8 @@ Focoo — это красивый и практичный таймер Pomodoro.
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Скачать версию для Windows из Microsoft Store" src="https://get.microsoft.com/images/ru%20dark.svg" width="200" /></a>
 
+<a href="https://snapcraft.io/focoo"><img alt="Получить в Snap Store" src="https://snapcraft.io/en/dark/install.svg" width="200" /></a>
+
 <a href="https://github.com/visualnano/focoo/releases/latest">
 <img alt="Скачать версию для Linux из GitHub release" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff" width="200" /></a>
 
