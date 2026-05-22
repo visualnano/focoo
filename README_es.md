@@ -31,6 +31,10 @@ Funcionalidad enfocada con un tamaño de aplicación pequeño
 Configuración flexible del temporizador, precisa hasta el segundo
 Altamente personalizable con abundantes opciones de configuración
 
+## Lanzamientos
+
+Consulta el historial de versiones, el registro de cambios y las capturas de pantalla en [release](release/README.md).
+
 ## Licencia
 
 Focoo es software comercial, este repositorio proporciona a los usuarios un lugar para reportar problemas y enviar sugerencias.

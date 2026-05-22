@@ -31,6 +31,10 @@ Fonctionnalité ciblée avec une petite taille d'application
 Paramètres de minuteur flexibles, précis à la seconde
 Hautement personnalisable avec de nombreuses options de configuration
 
+## Versions
+
+Voir l'historique des versions, le journal des modifications et les captures d'écran dans [release](release/README.md).
+
 ## Licence
 
 Focoo est un logiciel commercial, ce dépôt fournit aux utilisateurs un endroit pour signaler des problèmes et soumettre des suggestions.

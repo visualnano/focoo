@@ -31,6 +31,10 @@ Chức năng tập trung với kích thước ứng dụng nhỏ
 Cài đặt bộ đếm thời gian linh hoạt, chính xác đến từng giây
 Có thể tùy chỉnh cao với nhiều tùy chọn cấu hình
 
+## Phát hành
+
+Xem lịch sử phiên bản, nhật ký thay đổi và ảnh chụp màn hình trong [release](release/README.md).
+
 ## Giấy phép
 
 Focoo là phần mềm thương mại, kho lưu trữ này cung cấp cho người dùng một nơi để báo cáo vấn đề và gửi đề xuất.

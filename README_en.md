@@ -31,6 +31,10 @@ Focused functionality with a small app size
 Flexible timer settings, precise down to the second
 Highly customizable with abundant configuration options
 
+## Releases
+
+See version history, changelog, and screenshots in [release](release/README.md).
+
 ## License
 
 Focoo is commercial software, this repo provides users with a place to report problems and submit suggestions.
