@@ -34,6 +34,7 @@ Caractéristiques Principales :
 - Fonctionnalité ciblée avec une petite taille d'application
 - Paramètres de minuteur flexibles, précis à la seconde
 - Hautement personnalisable avec de nombreuses options de configuration
+- Disponible en plus de 10 langues
 
 ## Versions
 

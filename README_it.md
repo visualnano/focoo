@@ -34,6 +34,7 @@ Caratteristiche Principali:
 - Funzionalità mirata con dimensioni dell'app ridotte
 - Impostazioni del timer flessibili, precise al secondo
 - Altamente personalizzabile con abbondanti opzioni di configurazione
+- Disponibile in oltre 10 lingue
 
 ## Rilasci
 

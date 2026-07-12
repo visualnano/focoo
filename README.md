@@ -34,6 +34,7 @@ Key Features:
 - Focused functionality with a small app size
 - Flexible timer settings, precise down to the second
 - Highly customizable with abundant configuration options
+- Available in 10+ languages
 
 ## Releases
 

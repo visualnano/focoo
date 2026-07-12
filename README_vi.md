@@ -34,6 +34,7 @@ Tính năng Chính:
 - Chức năng tập trung với kích thước ứng dụng nhỏ
 - Cài đặt bộ đếm thời gian linh hoạt, chính xác đến từng giây
 - Có thể tùy chỉnh cao với nhiều tùy chọn cấu hình
+- Có sẵn với hơn 10 ngôn ngữ
 
 ## Phát hành
 
