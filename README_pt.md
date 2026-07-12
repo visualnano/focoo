@@ -22,18 +22,18 @@ Focoo é uma aplicação de produtividade simples e intuitiva baseada na Técnic
 Deixe o Focoo guiá-lo para superar a procrastinação e alcançar conquistas pessoais passo a passo!
 
 Cenários Aplicáveis:
-Estudo e Revisão
-Trabalho e Tarefas de Escritório
-Disciplina Pessoal
-Construção de Hábitos
-Prática de Meditação
+- Estudo e Revisão
+- Trabalho e Tarefas de Escritório
+- Disciplina Pessoal
+- Construção de Hábitos
+- Prática de Meditação
 ...
 
 Recursos Principais:
-Interface limpa e intuitiva
-Funcionalidade focada com tamanho de aplicativo pequeno
-Configurações de temporizador flexíveis, precisas até o segundo
-Altamente personalizável com opções de configuração abundantes
+- Interface limpa e intuitiva
+- Funcionalidade focada com tamanho de aplicativo pequeno
+- Configurações de temporizador flexíveis, precisas até o segundo
+- Altamente personalizável com opções de configuração abundantes
 
 ## Lançamentos
 

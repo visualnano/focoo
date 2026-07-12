@@ -22,18 +22,18 @@ Focoo is a simple and intuitive productivity application based on the Pomodoro T
 Let Focoo guide you to overcome procrastination and achieve personal breakthroughs step by step! 
 
 Applicable Scenarios:
-Studying and Reviewing
-Work and Office Tasks
-Personal Discipline
-Habit Building
-Meditation Practice
+- Studying and Reviewing
+- Work and Office Tasks
+- Personal Discipline
+- Habit Building
+- Meditation Practice
 ...
 
 Key Features:
-Clean and intuitive interface
-Focused functionality with a small app size 
-Flexible timer settings, precise down to the second
-Highly customizable with abundant configuration options
+- Clean and intuitive interface
+- Focused functionality with a small app size
+- Flexible timer settings, precise down to the second
+- Highly customizable with abundant configuration options
 
 ## Releases
 

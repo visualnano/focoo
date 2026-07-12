@@ -22,18 +22,18 @@ Focoo ist eine einfache und intuitive Produktivitätsanwendung basierend auf der
 Lassen Sie Focoo Sie dabei führen, Prokrastination zu überwinden und Schritt für Schritt persönliche Durchbrüche zu erzielen!
 
 Anwendbare Szenarien:
-Lernen und Wiederholen
-Arbeit und Büroaufgaben
-Persönliche Disziplin
-Gewohnheitsbildung
-Meditationspraxis
+- Lernen und Wiederholen
+- Arbeit und Büroaufgaben
+- Persönliche Disziplin
+- Gewohnheitsbildung
+- Meditationspraxis
 ...
 
 Hauptfunktionen:
-Saubere und intuitive Benutzeroberfläche
-Fokussierte Funktionalität mit kleiner App-Größe
-Flexible Timer-Einstellungen, präzise bis auf die Sekunde
-Hochgradig anpassbar mit reichlich Konfigurationsoptionen
+- Saubere und intuitive Benutzeroberfläche
+- Fokussierte Funktionalität mit kleiner App-Größe
+- Flexible Timer-Einstellungen, präzise bis auf die Sekunde
+- Hochgradig anpassbar mit reichlich Konfigurationsoptionen
 
 ## Veröffentlichungen
 

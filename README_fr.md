@@ -22,18 +22,18 @@ Focoo est une application de productivité simple et intuitive basée sur la Tec
 Laissez Focoo vous guider pour surmonter la procrastination et réaliser des percées personnelles étape par étape !
 
 Scénarios Applicables :
-Étude et Révision
-Travail et Tâches de Bureau
-Discipline Personnelle
-Construction d'Habitudes
-Pratique de Méditation
+- Étude et Révision
+- Travail et Tâches de Bureau
+- Discipline Personnelle
+- Construction d'Habitudes
+- Pratique de Méditation
 ...
 
 Caractéristiques Principales :
-Interface propre et intuitive
-Fonctionnalité ciblée avec une petite taille d'application
-Paramètres de minuteur flexibles, précis à la seconde
-Hautement personnalisable avec de nombreuses options de configuration
+- Interface propre et intuitive
+- Fonctionnalité ciblée avec une petite taille d'application
+- Paramètres de minuteur flexibles, précis à la seconde
+- Hautement personnalisable avec de nombreuses options de configuration
 
 ## Versions
 

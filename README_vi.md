@@ -22,18 +22,18 @@ Focoo là một ứng dụng năng suất đơn giản và trực quan dựa tr�
 Hãy để Focoo hướng dẫn bạn vượt qua sự trì hoãn và đạt được những đột phá cá nhân từng bước!
 
 Các Tình huống Áp dụng:
-Học tập và Ôn tập
-Công việc và Nhiệm vụ Văn phòng
-Kỷ luật Cá nhân
-Xây dựng Thói quen
-Thực hành Thiền định
+- Học tập và Ôn tập
+- Công việc và Nhiệm vụ Văn phòng
+- Kỷ luật Cá nhân
+- Xây dựng Thói quen
+- Thực hành Thiền định
 ...
 
 Tính năng Chính:
-Giao diện sạch sẽ và trực quan
-Chức năng tập trung với kích thước ứng dụng nhỏ
-Cài đặt bộ đếm thời gian linh hoạt, chính xác đến từng giây
-Có thể tùy chỉnh cao với nhiều tùy chọn cấu hình
+- Giao diện sạch sẽ và trực quan
+- Chức năng tập trung với kích thước ứng dụng nhỏ
+- Cài đặt bộ đếm thời gian linh hoạt, chính xác đến từng giây
+- Có thể tùy chỉnh cao với nhiều tùy chọn cấu hình
 
 ## Phát hành
 
