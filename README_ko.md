@@ -37,7 +37,7 @@ Focoo가 여러분을 안내하여 미루는 습관을 극복하고 단계별로
 
 ## 릴리스
 
-[release](release/README.md)에서 버전 기록, 변경 내역 및 스크린샷을 확인하세요.
+[releases](releases/README.md)에서 버전 기록, 변경 내역 및 스크린샷을 확인하세요.
 
 ## 라이선스
 

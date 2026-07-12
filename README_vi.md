@@ -37,7 +37,7 @@ Tính năng Chính:
 
 ## Phát hành
 
-Xem lịch sử phiên bản, nhật ký thay đổi và ảnh chụp màn hình trong [release](release/README.md).
+Xem lịch sử phiên bản, nhật ký thay đổi và ảnh chụp màn hình trong [releases](releases/README.md).
 
 ## Giấy phép
 

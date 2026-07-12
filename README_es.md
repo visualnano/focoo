@@ -37,7 +37,7 @@ Características Principales:
 
 ## Lanzamientos
 
-Consulta el historial de versiones, el registro de cambios y las capturas de pantalla en [release](release/README.md).
+Consulta el historial de versiones, el registro de cambios y las capturas de pantalla en [releases](releases/README.md).
 
 ## Licencia
 

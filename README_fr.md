@@ -37,7 +37,7 @@ Caractéristiques Principales :
 
 ## Versions
 
-Voir l'historique des versions, le journal des modifications et les captures d'écran dans [release](release/README.md).
+Voir l'historique des versions, le journal des modifications et les captures d'écran dans [releases](releases/README.md).
 
 ## Licence
 

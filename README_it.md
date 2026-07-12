@@ -37,7 +37,7 @@ Caratteristiche Principali:
 
 ## Rilasci
 
-Consulta la cronologia delle versioni, il log delle modifiche e gli screenshot in [release](release/README.md).
+Consulta la cronologia delle versioni, il log delle modifiche e gli screenshot in [releases](releases/README.md).
 
 ## Licenza
 

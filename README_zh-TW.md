@@ -37,7 +37,7 @@ Focoo 是一款基於番茄工作法的簡單直觀的效率應用，旨在幫�
 
 ## 版本發佈
 
-請在 [release](release/README.md) 中查看版本歷史、更新日誌和螢幕截圖。
+請在 [releases](releases/README.md) 中查看版本歷史、更新日誌和螢幕截圖。
 
 ## 許可
 

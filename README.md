@@ -37,7 +37,7 @@ Key Features:
 
 ## Releases
 
-See version history, changelog, and screenshots in [release](release/README.md).
+See version history, changelog, and screenshots in [releases](releases/README.md).
 
 ## License
 

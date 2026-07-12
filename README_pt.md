@@ -37,7 +37,7 @@ Recursos Principais:
 
 ## Lançamentos
 
-Consulte o histórico de versões, o log de alterações e as capturas de tela em [release](release/README.md).
+Consulte o histórico de versões, o log de alterações e as capturas de tela em [releases](releases/README.md).
 
 ## Licença
 

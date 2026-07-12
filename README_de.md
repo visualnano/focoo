@@ -37,7 +37,7 @@ Hauptfunktionen:
 
 ## Veröffentlichungen
 
-Siehe Versionsverlauf, Änderungsprotokoll und Screenshots unter [release](release/README.md).
+Siehe Versionsverlauf, Änderungsprotokoll und Screenshots unter [releases](releases/README.md).
 
 ## Lizenz
 
