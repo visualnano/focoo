@@ -6,6 +6,15 @@
 
 Focoo là một bộ đếm thời gian Pomodoro đẹp và thực tế.
 
+## Giao diện
+
+<p align="center">
+  <img src="releases/1.1.0/01_focus.png" alt="Tập trung" width="180" />
+  <img src="releases/1.1.0/02_short_break.png" alt="Nghỉ ngắn" width="180" />
+  <img src="releases/1.1.0/04_stat.png" alt="Thống kê" width="180" />
+  <img src="releases/1.1.0/05_settings.png" alt="Cài đặt" width="180" />
+</p>
+
 ## Cài đặt
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Tải xuống phiên bản Windows từ Microsoft Store" src="https://get.microsoft.com/images/vi%20dark.svg" width="200" /></a>

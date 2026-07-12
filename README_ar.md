@@ -6,6 +6,15 @@
 
 Focoo هو مؤقت بومودورو جميل وعملي.
 
+## المظهر
+
+<p align="center">
+  <img src="releases/1.1.0/01_focus.png" alt="تركيز" width="180" />
+  <img src="releases/1.1.0/02_short_break.png" alt="استراحة قصيرة" width="180" />
+  <img src="releases/1.1.0/04_stat.png" alt="إحصائيات" width="180" />
+  <img src="releases/1.1.0/05_settings.png" alt="إعدادات" width="180" />
+</p>
+
 ## التثبيت
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="تنزيل إصدار Windows من Microsoft Store" src="https://get.microsoft.com/images/ar%20dark.svg" width="200" /></a>

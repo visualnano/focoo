@@ -6,6 +6,15 @@
 
 Focoo ایک خوبصورت اور عملی Pomodoro ٹائمر ہے۔
 
+## ظاہری شکل
+
+<p align="center">
+  <img src="releases/1.1.0/01_focus.png" alt="فوکس" width="180" />
+  <img src="releases/1.1.0/02_short_break.png" alt="مختصر وقفہ" width="180" />
+  <img src="releases/1.1.0/04_stat.png" alt="اعداد و شمار" width="180" />
+  <img src="releases/1.1.0/05_settings.png" alt="ترتیبات" width="180" />
+</p>
+
 ## انسٹالیشن
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Microsoft Store سے Windows ورژن ڈاؤن لوڈ کریں" src="https://get.microsoft.com/images/ur%20dark.svg" width="200" /></a>

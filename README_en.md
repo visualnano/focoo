@@ -6,6 +6,15 @@
 
 Focoo is a beautiful and practical Pomodoro timer.
 
+## Appearance
+
+<p align="center">
+  <img src="releases/1.1.0/01_focus.png" alt="Focus" width="180" />
+  <img src="releases/1.1.0/02_short_break.png" alt="Short break" width="180" />
+  <img src="releases/1.1.0/04_stat.png" alt="Statistics" width="180" />
+  <img src="releases/1.1.0/05_settings.png" alt="Settings" width="180" />
+</p>
+
 ## Installation
 
 <a href="https://apps.microsoft.com/detail/9NJNTVD5NWQH?referrer=appbadge&mode=full"><img alt="Download Windows version from the Microsoft Store" src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" /></a>
