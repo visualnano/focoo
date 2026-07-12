@@ -43,6 +43,7 @@ Recursos Principais:
 - Funcionalidade focada com tamanho de aplicativo pequeno
 - Configurações de temporizador flexíveis, precisas até o segundo
 - Altamente personalizável com opções de configuração abundantes
+- Disponível no Windows, Linux e macOS; Android e iOS em breve
 - Disponível em mais de 10 idiomas
 
 ## Lançamentos

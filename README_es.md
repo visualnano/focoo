@@ -43,6 +43,7 @@ Características Principales:
 - Funcionalidad enfocada con un tamaño de aplicación pequeño
 - Configuración flexible del temporizador, precisa hasta el segundo
 - Altamente personalizable con abundantes opciones de configuración
+- Disponible en Windows, Linux y macOS; Android e iOS próximamente
 - Disponible en más de 10 idiomas
 
 ## Lanzamientos

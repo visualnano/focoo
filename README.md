@@ -43,6 +43,7 @@ Key Features:
 - Focused functionality with a small app size
 - Flexible timer settings, precise down to the second
 - Highly customizable with abundant configuration options
+- Available on Windows, Linux, and macOS, with Android and iOS coming soon
 - Available in 10+ languages
 
 ## Releases

@@ -43,6 +43,7 @@ Hauptfunktionen:
 - Fokussierte Funktionalität mit kleiner App-Größe
 - Flexible Timer-Einstellungen, präzise bis auf die Sekunde
 - Hochgradig anpassbar mit reichlich Konfigurationsoptionen
+- Verfügbar auf Windows, Linux und macOS; Android und iOS demnächst
 - Verfügbar in mehr als 10 Sprachen
 
 ## Veröffentlichungen
