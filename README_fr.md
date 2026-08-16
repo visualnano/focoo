@@ -9,10 +9,10 @@ Focoo est un minuteur Pomodoro beau et pratique.
 ## Apparence
 
 <p align="center">
-  <img src="releases/1.1.0/01_focus.png" alt="Concentration" width="180" />
-  <img src="releases/1.1.0/02_short_break.png" alt="Courte pause" width="180" />
-  <img src="releases/1.1.0/04_stat.png" alt="Statistiques" width="180" />
-  <img src="releases/1.1.0/05_settings.png" alt="Paramètres" width="180" />
+  <img src="releases/1.2.0/01_focus.png" alt="Concentration" width="180" />
+  <img src="releases/1.2.0/02_short_break.png" alt="Courte pause" width="180" />
+  <img src="releases/1.2.0/04_stat.png" alt="Statistiques" width="180" />
+  <img src="releases/1.2.0/05_settings.png" alt="Paramètres" width="180" />
 </p>
 
 ## Installation

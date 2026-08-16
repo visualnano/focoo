@@ -9,10 +9,10 @@ Focoo는 아름답고 실용적인 포모도로 타이머입니다.
 ## 화면
 
 <p align="center">
-  <img src="releases/1.1.0/01_focus.png" alt="집중" width="180" />
-  <img src="releases/1.1.0/02_short_break.png" alt="짧은 휴식" width="180" />
-  <img src="releases/1.1.0/04_stat.png" alt="통계" width="180" />
-  <img src="releases/1.1.0/05_settings.png" alt="설정" width="180" />
+  <img src="releases/1.2.0/01_focus.png" alt="집중" width="180" />
+  <img src="releases/1.2.0/02_short_break.png" alt="짧은 휴식" width="180" />
+  <img src="releases/1.2.0/04_stat.png" alt="통계" width="180" />
+  <img src="releases/1.2.0/05_settings.png" alt="설정" width="180" />
 </p>
 
 ## 설치

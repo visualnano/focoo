@@ -9,10 +9,10 @@ Focoo es un temporizador Pomodoro hermoso y práctico.
 ## Apariencia
 
 <p align="center">
-  <img src="releases/1.1.0/01_focus.png" alt="Enfoque" width="180" />
-  <img src="releases/1.1.0/02_short_break.png" alt="Descanso corto" width="180" />
-  <img src="releases/1.1.0/04_stat.png" alt="Estadísticas" width="180" />
-  <img src="releases/1.1.0/05_settings.png" alt="Configuración" width="180" />
+  <img src="releases/1.2.0/01_focus.png" alt="Enfoque" width="180" />
+  <img src="releases/1.2.0/02_short_break.png" alt="Descanso corto" width="180" />
+  <img src="releases/1.2.0/04_stat.png" alt="Estadísticas" width="180" />
+  <img src="releases/1.2.0/05_settings.png" alt="Configuración" width="180" />
 </p>
 
 ## Instalación

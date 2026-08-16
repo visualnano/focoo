@@ -25,3 +25,12 @@ New features:
 - Supports interactive windows app notification
 - Supports system tray
 
+## v1.2.0 on 2026/08/12
+
+New features:
+
+- Brand new Material Design 3 interface
+- Supports launch on system startup
+- Supports setting the clock font
+- Supports resetting cycles
+

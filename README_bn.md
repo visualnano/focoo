@@ -9,10 +9,10 @@ Focoo একটি সুন্দর এবং ব্যবহারিক প�
 ## চেহারা
 
 <p align="center">
-  <img src="releases/1.1.0/01_focus.png" alt="ফোকাস" width="180" />
-  <img src="releases/1.1.0/02_short_break.png" alt="ছোট বিরতি" width="180" />
-  <img src="releases/1.1.0/04_stat.png" alt="পরিসংখ্যান" width="180" />
-  <img src="releases/1.1.0/05_settings.png" alt="সেটিংস" width="180" />
+  <img src="releases/1.2.0/01_focus.png" alt="ফোকাস" width="180" />
+  <img src="releases/1.2.0/02_short_break.png" alt="ছোট বিরতি" width="180" />
+  <img src="releases/1.2.0/04_stat.png" alt="পরিসংখ্যান" width="180" />
+  <img src="releases/1.2.0/05_settings.png" alt="সেটিংস" width="180" />
 </p>
 
 ## ইনস্টলেশন

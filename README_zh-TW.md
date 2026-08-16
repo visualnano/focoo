@@ -9,10 +9,10 @@ Focoo 是一個美觀實用的番茄鐘計時器。
 ## 外觀
 
 <p align="center">
-  <img src="releases/1.1.0/01_focus.png" alt="專注" width="180" />
-  <img src="releases/1.1.0/02_short_break.png" alt="短休息" width="180" />
-  <img src="releases/1.1.0/04_stat.png" alt="統計" width="180" />
-  <img src="releases/1.1.0/05_settings.png" alt="設定" width="180" />
+  <img src="releases/1.2.0/01_focus.png" alt="專注" width="180" />
+  <img src="releases/1.2.0/02_short_break.png" alt="短休息" width="180" />
+  <img src="releases/1.2.0/04_stat.png" alt="統計" width="180" />
+  <img src="releases/1.2.0/05_settings.png" alt="設定" width="180" />
 </p>
 
 ## 安裝
